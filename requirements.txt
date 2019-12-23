@@ -1,0 +1,2 @@
+kedro==0.15.4
+ipykernel==5.1.3
